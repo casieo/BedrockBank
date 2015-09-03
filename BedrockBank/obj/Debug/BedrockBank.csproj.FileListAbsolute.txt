@@ -1,6 +1,0 @@
-C:\Users\casieo\OneDrive\TechnicalProjects\BedrockBank\BedrockBank\bin\Debug\BedrockBank.exe.config
-C:\Users\casieo\OneDrive\TechnicalProjects\BedrockBank\BedrockBank\bin\Debug\BedrockBank.exe
-C:\Users\casieo\OneDrive\TechnicalProjects\BedrockBank\BedrockBank\bin\Debug\BedrockBank.pdb
-C:\Users\casieo\OneDrive\TechnicalProjects\BedrockBank\BedrockBank\obj\Debug\BedrockBank.csprojResolveAssemblyReference.cache
-C:\Users\casieo\OneDrive\TechnicalProjects\BedrockBank\BedrockBank\obj\Debug\BedrockBank.exe
-C:\Users\casieo\OneDrive\TechnicalProjects\BedrockBank\BedrockBank\obj\Debug\BedrockBank.pdb
